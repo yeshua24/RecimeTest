@@ -5,6 +5,9 @@ A native iOS application built using **Swift + SwiftUI** that allows users to br
 The project is intentionally structured to resemble a **real production app**, while currently loading data from a local JSON file *(mock backend)*.
 
 ---
+## ✨ App Preview
+To better demonstrate the loading states, the app was tested under a **slow network condition** to showcase the shimmering placeholders while images are loading.
+🔗 Preview Link: https://drive.google.com/file/d/1fjYsTY1cJjcZFiTrWnxsrC7Wgwsx_ehR/view?usp=sharing
 
 ## ✨ Features
 
