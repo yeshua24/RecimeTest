@@ -89,14 +89,7 @@ This mimics real backend behavior and improves performance.
 
 ---
 
-### 2. Service instead of Repository
-`RecipeService` represents a use-case provider rather than a storage abstraction.
-
-This keeps the architecture realistic without over-engineering.
-
----
-
-### 3. Custom Image Loader
+### 2. Custom Image Loader
 A custom `CachedAsyncImage` supports:
 
 - Memory cache
@@ -109,7 +102,7 @@ This avoids third-party dependencies while simulating production behavior.
 
 ---
 
-### 4. Ingredient Selection UX
+### 3. Ingredient Selection UX
 
 | Gesture | Result |
 |------|------|
@@ -120,12 +113,12 @@ Chosen to minimize UI complexity and match mobile ergonomics.
 
 ---
 
-### 5. Debounced Searching
+### 4. Debounced Searching
 Search input is debounced (~350ms) to prevent excessive filtering and mimic real-world search behavior found in production apps.
 
 ---
 
-### 6. Simple MVVM
+### 5. Simple MVVM
 ViewModels only manage:
 
 - Screen state
