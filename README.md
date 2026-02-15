@@ -94,7 +94,6 @@ A custom `CachedAsyncImage` supports:
 
 - Memory cache
 - Disk cache
-- Request deduplication *(actor-based)*
 - Shimmer loading
 - Failure UI
 
