@@ -1,0 +1,475 @@
+{
+    "data": [
+        {
+          "id": 0,
+          "title": "Spaghetti Carbonara",
+          "description": "A traditional Roman pasta dish made with eggs, Pecorino Romano, pancetta, and black pepper. The sauce becomes creamy by emulsifying eggs with hot pasta water — no cream required.",
+          "servings": 4,
+          "prepTime": 25,
+          "ingredients": [
+            "400g spaghetti pasta",
+            "150g pancetta, diced",
+            "3 large eggs",
+            "1 egg yolk",
+            "100g Pecorino Romano, grated",
+            "1 tsp black pepper",
+            "Salt for pasta water"
+          ],
+          "instructions": [
+            "Boil salted water and cook spaghetti until al dente.",
+            "Cook pancetta until crispy.",
+            "Whisk eggs, yolk, cheese, and pepper.",
+            "Drain pasta and combine with pancetta.",
+            "Remove from heat and quickly mix in egg mixture.",
+            "Add pasta water until creamy."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg",
+          "isVegetarian": false
+        },
+        {
+          "id": 1,
+          "title": "Chicken Alfredo",
+          "description": "Creamy fettuccine Alfredo topped with tender grilled chicken breast and rich Parmesan sauce.",
+          "servings": 4,
+          "prepTime": 30,
+          "ingredients": [
+            "400g fettuccine pasta",
+            "2 chicken breasts",
+            "2 tbsp butter",
+            "3 cloves garlic, minced",
+            "1 cup heavy cream",
+            "1 cup Parmesan cheese",
+            "Salt and pepper"
+          ],
+          "instructions": [
+            "Cook pasta according to package instructions.",
+            "Season and grill chicken, then slice.",
+            "Melt butter and sauté garlic.",
+            "Add cream and simmer.",
+            "Stir in Parmesan until smooth.",
+            "Combine pasta, sauce, and chicken."
+          ],
+          "imageUrl": "https://panlasangpinoy.com/wp-content/uploads/2019/11/chicken-alfredo-pasta.jpg",
+          "isVegetarian": false
+        },
+        {
+          "id": 2,
+          "title": "Vegetarian Stir Fry",
+          "description": "Colorful vegetables tossed in a savory soy garlic sauce, perfect for a healthy quick meal.",
+          "servings": 3,
+          "prepTime": 20,
+          "ingredients": [
+            "1 red bell pepper, sliced",
+            "1 cup broccoli florets",
+            "1 cup snap peas",
+            "1 carrot, julienned",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil",
+            "2 cloves garlic"
+          ],
+          "instructions": [
+            "Heat oil in a wok.",
+            "Sauté garlic.",
+            "Add vegetables and stir fry 5-7 minutes.",
+            "Add soy sauce and sesame oil.",
+            "Serve hot."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wqurxy1511453156.jpg",
+          "isVegetarian": true
+        },
+        {
+          "id": 3,
+          "title": "Beef Tacos",
+          "description": "Mexican-style tacos filled with seasoned ground beef and fresh toppings.",
+          "servings": 6,
+          "prepTime": 35,
+          "ingredients": [
+            "500g ground beef",
+            "8 taco shells",
+            "1 packet taco seasoning",
+            "1 cup shredded lettuce",
+            "1 cup diced tomatoes",
+            "1 cup shredded cheddar"
+          ],
+          "instructions": [
+            "Cook beef in skillet.",
+            "Add seasoning.",
+            "Warm taco shells.",
+            "Fill shells with beef and toppings."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+          "isVegetarian": false
+        },
+
+        {
+          "id": 4,
+          "title": "Tomato Basil Soup",
+          "description": "Creamy tomato soup infused with fresh basil and garlic.",
+          "servings": 4,
+          "prepTime": 40,
+          "ingredients": [
+            "800g tomatoes",
+            "1 onion",
+            "3 cloves garlic",
+            "2 cups vegetable broth",
+            "1/2 cup cream",
+            "10 basil leaves"
+          ],
+          "instructions": [
+            "Sauté onion and garlic.",
+            "Add tomatoes and broth.",
+            "Simmer 20 minutes.",
+            "Blend smooth.",
+            "Add cream and basil."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
+          "isVegetarian": true
+        },
+
+        {
+          "id": 5,
+          "title": "Grilled Salmon",
+          "description": "Fresh salmon fillets grilled with herbs and lemon.",
+          "servings": 2,
+          "prepTime": 18,
+          "ingredients": [
+            "2 salmon fillets",
+            "1 tbsp olive oil",
+            "1 lemon",
+            "Salt and pepper",
+            "1 tsp dried herbs"
+          ],
+          "instructions": [
+            "Season salmon.",
+            "Preheat grill.",
+            "Grill 4-5 minutes per side.",
+            "Serve with lemon."
+          ],
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/how-to-grill-salmon-recipe2-1655870552.jpg?crop=0.982xw:0.982xh;0,0&resize=1400:*",
+          "isVegetarian": false
+        },
+
+        {
+          "id": 6,
+          "title": "Greek Salad",
+          "description": "Fresh Mediterranean salad with feta cheese and olives.",
+          "servings": 3,
+          "prepTime": 15,
+          "ingredients": [
+            "2 tomatoes",
+            "1 cucumber",
+            "100g feta cheese",
+            "1/4 cup olives",
+            "2 tbsp olive oil"
+          ],
+          "instructions": [
+            "Chop vegetables.",
+            "Add feta and olives.",
+            "Drizzle olive oil.",
+            "Toss and serve."
+          ],
+          "imageUrl": "https://www.aheadofthyme.com/wp-content/uploads/2016/03/the-perfect-greek-salad-7.jpg",
+          "isVegetarian": true
+        },
+
+        {
+          "id": 7,
+          "title": "Pad Thai",
+          "description": "Thai stir-fried rice noodles with shrimp, peanuts, and tamarind sauce.",
+          "servings": 4,
+          "prepTime": 30,
+          "ingredients": [
+            "200g rice noodles",
+            "200g shrimp",
+            "2 eggs",
+            "1/4 cup peanuts",
+            "2 tbsp tamarind paste"
+          ],
+          "instructions": [
+            "Soak noodles.",
+            "Cook shrimp.",
+            "Add eggs and scramble.",
+            "Add noodles and sauce.",
+            "Top with peanuts."
+          ],
+          "imageUrl": "https://www.seriouseats.com/thmb/jwFKGazDJTzaDGGgwtg0mGdspW0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/20250214-SEA-PadThai-AmandaSuarez-hero-4251c730d61a40ba935f2d43153d6862.jpg",
+          "isVegetarian": false
+        },
+
+        {
+          "id": 8,
+          "title": "Vegetarian Pizza",
+          "description": "Homemade pizza topped with colorful vegetables and mozzarella.",
+          "servings": 8,
+          "prepTime": 45,
+          "ingredients": [
+            "1 pizza dough",
+            "1 cup tomato sauce",
+            "1 cup mozzarella",
+            "1 bell pepper",
+            "1/2 cup olives"
+          ],
+          "instructions": [
+            "Preheat oven to 220°C.",
+            "Spread sauce on dough.",
+            "Add toppings.",
+            "Bake 12-15 minutes."
+          ],
+          "imageUrl": "https://www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-overhead-sliced.png",
+          "isVegetarian": true
+        },
+
+        {
+          "id": 9,
+          "title": "Chicken Parmesan",
+          "description": "Breaded chicken breast baked with marinara sauce and melted cheese.",
+          "servings": 4,
+          "prepTime": 50,
+          "ingredients": [
+            "2 chicken breasts",
+            "1 cup bread crumbs",
+            "1 cup marinara sauce",
+            "1 cup mozzarella",
+            "1/2 cup Parmesan"
+          ],
+          "instructions": [
+            "Bread chicken.",
+            "Bake 20 minutes.",
+            "Add sauce and cheese.",
+            "Bake until melted."
+          ],
+          "imageUrl": "https://www.budgetbytes.com/wp-content/uploads/2024/04/Chicken-Parmesan-V1.jpg",
+          "isVegetarian": false
+        },
+
+        {
+          "id": 10,
+          "title": "Mushroom Risotto",
+          "description": "Creamy Italian risotto cooked slowly with mushrooms and Parmesan.",
+          "servings": 4,
+          "prepTime": 35,
+          "ingredients": [
+            "1 cup arborio rice",
+            "200g mushrooms",
+            "4 cups vegetable broth",
+            "1/2 cup Parmesan",
+            "1 small onion"
+          ],
+          "instructions": [
+            "Sauté onion.",
+            "Add rice and toast.",
+            "Gradually add broth.",
+            "Stir until creamy.",
+            "Add mushrooms and cheese."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/ysqupp1511640538.jpg",
+          "isVegetarian": true
+        },
+
+        {
+          "id": 11,
+          "title": "Beef Stroganoff",
+          "description": "Tender beef strips in creamy mushroom sauce served over noodles.",
+          "servings": 4,
+          "prepTime": 40,
+          "ingredients": [
+            "500g beef strips",
+            "200g mushrooms",
+            "1 cup sour cream",
+            "1 onion",
+            "2 cups egg noodles"
+          ],
+          "instructions": [
+            "Cook beef.",
+            "Add mushrooms and onion.",
+            "Stir in sour cream.",
+            "Serve over noodles."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+          "isVegetarian": false
+        },
+
+        {
+          "id": 12,
+          "title": "Shrimp Scampi",
+          "description": "Garlic butter shrimp served over pasta with fresh parsley.",
+          "servings": 4,
+          "prepTime": 20,
+          "ingredients": [
+            "300g shrimp",
+            "3 cloves garlic",
+            "2 tbsp butter",
+            "200g spaghetti pasta",
+            "Parsley"
+          ],
+          "instructions": [
+            "Cook pasta.",
+            "Sauté garlic in butter.",
+            "Add shrimp and cook 3 minutes.",
+            "Combine with pasta."
+          ],
+          "imageUrl": "https://www.allrecipes.com/thmb/aoi6lThNCPYBP7FNwGxUBk-4MRU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-recipe-19508-shrimp-scampi-VAT-hero-01-4x3-f5a1c9cadca542919285caa8dcf5d135.jpg",
+          "isVegetarian": false
+        },
+
+        {
+          "id": 13,
+          "title": "Vegetable Quiche",
+          "description": "Savory pie filled with eggs, cheese, and mixed vegetables.",
+          "servings": 6,
+          "prepTime": 55,
+          "ingredients": [
+            "1 pie crust",
+            "4 eggs",
+            "1 cup milk",
+            "1 cup mixed vegetables",
+            "1 cup cheese"
+          ],
+          "instructions": [
+            "Preheat oven.",
+            "Whisk eggs and milk.",
+            "Add vegetables and cheese.",
+            "Pour into crust.",
+            "Bake 35 minutes."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/urpwwu1511795916.jpg",
+          "isVegetarian": true
+        },
+
+        {
+          "id": 14    ,
+          "title": "Fish Tacos",
+          "description": "Crispy battered fish served in warm tortillas with fresh slaw.",
+          "servings": 4,
+          "prepTime": 25,
+          "ingredients": [
+            "400g white fish",
+            "8 tortillas",
+            "1 cup shredded cabbage",
+            "1 lime",
+            "1/2 cup sour cream"
+          ],
+          "instructions": [
+            "Fry fish until crispy.",
+            "Warm tortillas.",
+            "Assemble tacos with toppings."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uvuyxu1503067383.jpg",
+          "isVegetarian": false
+        },
+
+        {
+          "id": 15,
+          "title": "Ramen with Egg",
+          "description": "Japanese noodle soup topped with soft boiled egg and scallions.",
+          "servings": 2,
+          "prepTime": 15,
+          "ingredients": [
+            "2 packs ramen noodles",
+            "2 eggs",
+            "4 cups chicken broth",
+            "2 tbsp soy sauce",
+            "Scallions"
+          ],
+          "instructions": [
+            "Boil broth.",
+            "Cook noodles.",
+            "Soft boil eggs.",
+            "Assemble bowl and serve."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+          "isVegetarian": false
+        },
+
+        {
+          "id": 16,
+          "title": "Sesame Cucumber Salad",
+          "description": "Light refreshing salad with sesame dressing.",
+          "servings": 3,
+          "prepTime": 10,
+          "ingredients": [
+            "2 cucumbers",
+            "1 tbsp sesame oil",
+            "1 tbsp soy sauce",
+            "1 tsp sesame seeds"
+          ],
+          "instructions": [
+            "Slice cucumbers.",
+            "Mix dressing.",
+            "Toss together."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+          "isVegetarian": true
+        },
+
+        {
+          "id": 17,
+          "title": "Chicken Congee",
+          "description": "Comforting rice porridge with shredded chicken and ginger.",
+          "servings": 4,
+          "prepTime": 60,
+          "ingredients": [
+            "1 cup rice",
+            "200g chicken",
+            "4 cups broth",
+            "1 tbsp ginger",
+            "Scallions"
+          ],
+          "instructions": [
+            "Simmer rice in broth.",
+            "Add shredded chicken.",
+            "Cook until creamy.",
+            "Top with scallions."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+          "isVegetarian": false
+        },
+
+        {
+          "id": 18,
+          "title": "Honey Balsamic Chicken",
+          "description": "Sweet and savory chicken glazed with honey and balsamic vinegar.",
+          "servings": 4,
+          "prepTime": 35,
+          "ingredients": [
+            "4 chicken thighs",
+            "2 tbsp honey",
+            "2 tbsp balsamic vinegar",
+            "1 cup broccoli",
+            "Salt and pepper"
+          ],
+          "instructions": [
+            "Season chicken.",
+            "Sear in skillet.",
+            "Add honey and vinegar.",
+            "Simmer until glazed."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+          "isVegetarian": false
+        },
+
+        {
+          "id": 19,
+          "title": "Mango Salsa",
+          "description": "Fresh mango salsa with lime, cilantro, and red onion. Perfect as a dip or topping.",
+          "servings": 4,
+          "prepTime": 10,
+          "ingredients": [
+            "2 ripe mangoes",
+            "1/4 cup red onion",
+            "1 lime",
+            "2 tbsp cilantro",
+            "Salt to taste"
+          ],
+          "instructions": [
+            "Dice mangoes.",
+            "Finely chop onion.",
+            "Mix with lime juice and cilantro.",
+            "Season and chill before serving."
+          ],
+          "imageUrl": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+          "isVegetarian": true
+        }
+      ]
+
+}
